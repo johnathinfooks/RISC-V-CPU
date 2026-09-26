@@ -2,5 +2,5 @@
 
 module top(
 
-    );
+);
 endmodule

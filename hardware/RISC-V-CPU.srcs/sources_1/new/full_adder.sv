@@ -1,9 +1,9 @@
 `timescale 1ns / 1ps
 
 module full_adder (
-    input logic a,
-    input logic b,
-    input logic c_in,
+    input  logic a,
+    input  logic b,
+    input  logic c_in,
     output logic sum,
     output logic c_out
 );
